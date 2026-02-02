@@ -1,5 +1,3 @@
-# password_manager
-
 # Password Manager (Shell Script)
 
 A simple command-line password manager built with Bash.
